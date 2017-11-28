@@ -1,12 +1,12 @@
-package fr.sttc.functionnal;
+package fr.sttc.stockservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FunctionnalApplication {
+public class StockServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FunctionnalApplication.class, args);
+		SpringApplication.run(StockServiceApplication.class, args);
 	}
 }
