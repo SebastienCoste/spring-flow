@@ -39,7 +39,7 @@ public class QuoteServiceApplicationTest {
                 });
     }
 
-    @Test
+//    @Test
     public void testStreamQuotes() throws  InterruptedException {
 
         CountDownLatch countDownLatch = new CountDownLatch(10);

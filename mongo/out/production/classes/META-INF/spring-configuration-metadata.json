@@ -1,0 +1,11 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "fr.sttc.mongo.client.StockQuoteClient",
+      "name": "sttc",
+      "type": "fr.sttc.mongo.client.StockQuoteClient"
+    }
+  ],
+  "properties": []
+}
